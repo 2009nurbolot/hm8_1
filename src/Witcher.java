@@ -1,6 +1,6 @@
-public class Witcher extends Hero{
+public class Witcher extends Hero {
     public Witcher(int health, int damage, String name) {
-        super(health, damage,SuperAbility.WITCHER, name);
+        super(health, damage, SuperAbility.WITCHER, name);
     }
 
     @Override
